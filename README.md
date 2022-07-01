@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yasinHoppa
+- 👋 Hi, I’m Yasin Sarder
 - 👀 I’m interested in Web 3.0, Blockchain and Web Development
 - 🌱 I’m currently learning Web development.
 
