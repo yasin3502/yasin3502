@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Yasin Sarder
-- 👀 I’m interested in Web 3.0, Blockchain and Web Development
+- 👋 Hi, I’m Yasin Sarder from Khulna, Bangladesh.
+- Currently, I am working in City Group IT Department as a Systems Engineer.
 
 
 <!---
