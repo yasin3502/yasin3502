@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Yasin Sarder from Khulna, Bangladesh.
-- Currently, I am working in City Group IT Department as a Systems Engineer.
+- 👋 Hi, I’m Yasin Sarder from Dhaka, Bangladesh.
+- I am working in City Group as an Assistant Executive (IT).
 
 
 <!---
